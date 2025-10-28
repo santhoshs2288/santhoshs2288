@@ -10,6 +10,4 @@
 - ### 🔭 Projects
 - **portfolio** — Personal site (React, Tailwind)
 - **chatbot-ai** — Simple chatbot using Python + Flask
-- ### skills
-- lead a students in an event
-- conduction of a program or event 
+
