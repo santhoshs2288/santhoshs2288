@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**santhoshs2288/santhoshs2288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Santhosh 👋  
+🎓 Student | 💻 Developer | 🌱 Learning AI, Web & Cloud
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Personal Portfolio & AI Chatbot  
+- 🌱 I’m learning: React, Node.js, and Machine Learning  
+- 💬 Ask me about: Frontend, GitHub, or Open Source  
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/santhosh-sankar-s-a4910632b) 
+- ⚡ Fun fact: I love building creative web tools 🚀
+- ### 🔭 Projects
+- **portfolio** — Personal site (React, Tailwind)
+- **chatbot-ai** — Simple chatbot using Python + Flask
+- ### skills
+- lead a students in an event
+- conduction of a program or event 
